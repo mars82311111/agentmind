@@ -1,0 +1,2 @@
+# No external dependencies - uses system opencli
+# Python 3.12+ recommended
